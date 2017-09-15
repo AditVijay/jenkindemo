@@ -1,13 +1,13 @@
 class A{
-public static void main(String args){
+public static void main(String[] args){
 
-system.output.println("Welcome to GITHUB");
+System.out.println("Welcome to GITHUB");
 
 
-system.output.println("Welcome to Master");
+System.out.println("Welcome to Master");
 
-system.output.println("Welcome to DevOne");
-system.output.println("Welcome to Tester");
+System.out.println("Welcome to DevOne");
+System.out.println("Welcome to Tester");
 
 
 
